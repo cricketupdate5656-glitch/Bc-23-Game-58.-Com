@@ -1,0 +1,6 @@
+{
+  "name": "BC23 Game 58.com",
+  "description": "BC23 Game 58.com - Premier entertainment gaming dashboard, VIP rewards, secure demo wallet, referral management, and customer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
